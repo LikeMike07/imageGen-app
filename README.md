@@ -1,5 +1,7 @@
 # imagegen
 
+not working atm
+
 To install dependencies:
 
 ```bash
